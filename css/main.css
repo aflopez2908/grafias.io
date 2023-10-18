@@ -1,0 +1,32 @@
+/*section image*/
+.container_section_imagen{
+    text-align: center;
+    display: flex;
+    padding-bottom: 3rem;
+}
+.container_section_imagen > img {
+    width: 60%;
+    text-align: center;
+
+}
+.container_texto{
+
+    font-family: 'Bitter', serif;
+    font-size: 2rem;
+    display: flex;
+    width: 30rem ;
+    text-align: center;
+    align-items: center;
+}
+
+/*seccion de destacados*/
+.comtainer_section_destacados{
+    text-align: center;
+}
+
+.comtainer_section_destacados h2{
+    font-family: 'Bitter', serif;
+    font-size: 3rem;
+
+
+}
