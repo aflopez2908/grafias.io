@@ -29,13 +29,20 @@
     font-size: 3rem;
 
 }
+.comtainer_section_destacados > ul{
 
-.container_section_destacados > li{
+    display:flex;
+    padding:1rem;
+
+    
+}
+
+.comtainer_section_destacados > li{
 
     display:flex;
     justify-conntent:center;   
 }
-.container_info_destacados{
+.comtainer_info_destacados{
 
     display:flex;
     flex-direction:column;
