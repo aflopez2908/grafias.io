@@ -28,5 +28,17 @@
     font-family: 'Bitter', serif;
     font-size: 3rem;
 
+}
 
+.container_section_destacados > li{
+
+    display:flex;
+    justify-conntent:center;   
+}
+.container_info_destacados{
+
+    display:flex;
+    flex-direction:column;
+    justify-conntent:center;
+    
 }
