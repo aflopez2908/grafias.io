@@ -1,7 +1,7 @@
 .clase{
     display: flex;
     align-items: center;
-    flex-direction: column;
+
 
 }
 .card:hover .card_landing{
@@ -21,7 +21,7 @@
     background: linear-gradient(transparent 90%, #000),rgba(29,2,2,1);
     background-position: center;
     background-size: cover;
-    z-index: 99;
+    z-index: 95;
 }
 
 .card .card_landing h6 {
@@ -48,11 +48,11 @@
     background: #fff;
     z-index: 90;
     box-shadow: 0 5px 10px #000;
-    transition: .5s;
+    transition: 0.1s;
 }
 
 .card:hover .card_info {
-    left: 100%;
+    z-index:97 ;
 
 }
 

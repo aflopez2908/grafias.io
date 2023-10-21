@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8cab265-9fcf-4e23-8574-a7fa6ad60522" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css/textos.css" afterDir="false" />
+    <list default="true" id="b8cab265-9fcf-4e23-8574-a7fa6ad60522" name="Changes" comment="v1.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/biblioteca.html" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/textos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/textos.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fotografia.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotografia.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/textos.html" beforeDir="false" afterPath="$PROJECT_DIR$/textos.html" afterDir="false" />
@@ -78,11 +75,24 @@
       <workItem from="1697163677592" duration="52000" />
       <workItem from="1697598860429" duration="8492000" />
       <workItem from="1697817544313" duration="6514000" />
-      <workItem from="1697858359940" duration="5470000" />
+      <workItem from="1697858359940" duration="6698000" />
     </task>
+    <task id="LOCAL-00001" summary="v1.3">
+      <option name="closed" value="true" />
+      <created>1697864004510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697864004510</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.3" />
   </component>
 </project>
