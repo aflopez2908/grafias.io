@@ -1,0 +1,11 @@
+.container_biblioteca{
+    display: flex;
+}
+
+.container_biblioteca > div{
+    width: 200px;
+    height: 200px;
+}
+img{
+    box-sizing: 10px;
+}

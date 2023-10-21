@@ -4,10 +4,12 @@
     display: flex;
     padding-bottom: 1rem;
     padding-right: 2rem;
+
 }
 .container_section_imagen > img {
     width: 60%;
     text-align: center;
+
 
 }
 .container_texto{
@@ -26,11 +28,13 @@
 .container_section_destacados{
     text-align: center;
 
+
 }
 .container_section_destacados h2{
     font-family: 'Bitter', serif;
     font-size: 3rem;
     padding: 3rem;
+
 }
 /* 2.2 seccion cartas*/
 .cartas{
@@ -38,7 +42,11 @@
     flex-wrap: wrap;
     justify-content: center;
 }
-.carta_indi > img{
+.container_info_destacados > h3{
+    font-size: 2rem;
+    font-style: italic;
+}
+.container_info_destacados > img{
     width: 50%;
     height: 200px;
     border-radius: 1rem;
@@ -48,4 +56,21 @@
 .carta_indi{
     display: flex;
     padding-bottom: 1rem;
+}
+
+/*3 seccion del boton siguiente*/
+
+.boton{
+    padding-right: 3rem;
+    text-align:end;
+    padding-bottom: 3rem;
+
+
+}
+.boton button{
+       background-color: rgba(29,1,1,1);
+    color: white;
+    font-style: italic;
+    font-family: 'Bitter', serif;
+    width: 8rem;
 }
