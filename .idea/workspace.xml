@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8cab265-9fcf-4e23-8574-a7fa6ad60522" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biblioteca.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotografia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/textos.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteca.html" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotografia.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotografia.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/textos.html" beforeDir="false" afterPath="$PROJECT_DIR$/textos.html" afterDir="false" />
     </list>
@@ -22,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -49,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/proyecto_grafias",
+    "last_opened_file_path": "C:/Users/pipel/Downloads/47-card",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -58,6 +60,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\proyecto_grafias\img" />
+      <recent name="D:\proyecto_grafias" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +77,8 @@
       <workItem from="1696302346659" duration="1121000" />
       <workItem from="1697163677592" duration="52000" />
       <workItem from="1697598860429" duration="8492000" />
-      <workItem from="1697817544313" duration="2705000" />
+      <workItem from="1697817544313" duration="6514000" />
+      <workItem from="1697858359940" duration="5470000" />
     </task>
     <servers />
   </component>
