@@ -1,9 +1,12 @@
+/* 1 estilo clase equipo*/
+
+/* 1.1 estilo ocntenedor integrantes*/
 .equipo{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.equipo .encabezado{
+.encabezado{
 
     font-family: 'Bitter', serif;
     font-weight: bold;
@@ -11,6 +14,8 @@
     border-bottom: 2px solid rgba(29,1,1,1);
     padding: 1rem;
 }
+
+/* 1.2 estilo individual por carta integrantes*/
 
 .container_equipo{
     display: flex;
@@ -23,8 +28,10 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: calc(33% - 5px); /* Ajusta el ancho según sea necesario y considera el margen entre los elementos */
-
+    width: calc(33% - 5px);
+}
+.integrante:hover img{
+    width: 11rem;
 }
 .integrante >img{
     width: 10rem;
@@ -44,6 +51,17 @@
 }
 .info_integrante >h5{
     font-weight: bold;
-
 }
+
+/* 2 estilo clase histoia*/
+
+.historia{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+
 
