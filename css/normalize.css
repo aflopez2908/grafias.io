@@ -30,4 +30,20 @@ a:visited {
 
 }
 
-/* Agrega aquí más estilos de reset si es necesario */
+ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+}
+
+ul ul li {
+    display: block;
+}
+
+
+li a:visited {
+    text-decoration: none;
+    color: white;
+
+}

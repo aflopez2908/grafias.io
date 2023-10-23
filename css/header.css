@@ -25,7 +25,7 @@ header div h3{
     margin: 0;
     font-weight: bold;
 }
-nav{
+header nav{
     width: 98%;
     justify-content: center;
     text-align: center;
@@ -36,28 +36,28 @@ nav{
 }
 
 
-ul {
+header ul {
     padding: 0 2rem 0 2rem;
 
 }
 
-li {
+header li {
     display: inline-block;
     margin-right: 20px;
     position: relative;
     padding-top: 0;
 }
-li a{
+header li a{
     text-decoration: none;
     color: white;
 }
-li:hover {
+header li:hover {
   border-top: 5px solid white;
   transition-duration: 0.2s;
 }
 
 /* hace referencia a la segunda lista*/
-li:hover ul {
+header li:hover ul {
     display: block;
     background-color: rgba(29,2,2,1);
     color: white;
@@ -67,20 +67,19 @@ li:hover ul {
 
 }
 
-ul ul {
+header ul ul {
     display: none;
     position: absolute;
     top: 100%;
     left: 0;
 }
 
-ul ul li {
+header ul ul li {
     display: block;
 }
 
 
-li a:visited {
+header li a:visited {
     text-decoration: none;
     color: white;
-
 }

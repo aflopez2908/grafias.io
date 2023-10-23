@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8cab265-9fcf-4e23-8574-a7fa6ad60522" name="Changes" comment="v1.6">
-      <change afterPath="$PROJECT_DIR$/texto/cuento/portada/cuento.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texto/cuento/portada/cuento_portada.html" afterDir="false" />
+    <list default="true" id="b8cab265-9fcf-4e23-8574-a7fa6ad60522" name="Changes" comment="v1.7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/biblioteca.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/biblioteca.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/biblioteca.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fotografia.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/fotografia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textos.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/textos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texto/cuento/portada/cuento.css" beforeDir="false" afterPath="$PROJECT_DIR$/texto/cuento/portada/cuento.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texto/cuento/portada/cuento_portada.html" beforeDir="false" afterPath="$PROJECT_DIR$/texto/cuento/portada/cuento_portada.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +94,7 @@
       <workItem from="1697817544313" duration="6514000" />
       <workItem from="1697858359940" duration="7407000" />
       <workItem from="1697909662737" duration="10914000" />
-      <workItem from="1698041835395" duration="4023000" />
+      <workItem from="1698041835395" duration="5336000" />
     </task>
     <task id="LOCAL-00001" summary="v1.3">
       <option name="closed" value="true" />
@@ -141,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697917349557</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="v1.7">
+      <option name="closed" value="true" />
+      <created>1698048132448</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698048132448</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +156,7 @@
     <MESSAGE value="v1.5 creacion del about" />
     <MESSAGE value="v1.5.1" />
     <MESSAGE value="v1.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.6" />
+    <MESSAGE value="v1.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.7" />
   </component>
 </project>
