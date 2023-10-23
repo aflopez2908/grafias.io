@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8cab265-9fcf-4e23-8574-a7fa6ad60522" name="Changes" comment="v1.5.1">
+    <list default="true" id="b8cab265-9fcf-4e23-8574-a7fa6ad60522" name="Changes" comment="v1.6">
+      <change afterPath="$PROJECT_DIR$/texto/cuento/portada/cuento.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/texto/cuento/portada/cuento_portada.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteca.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/biblioteca.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/biblioteca.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/biblioteca.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotografia.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/fotografia.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textos.html" beforeDir="false" afterPath="$PROJECT_DIR$/textos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textos.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/textos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -61,7 +65,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pipel/Downloads/47-card&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/proyecto_grafias/img&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -71,8 +75,12 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\proyecto_grafias\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\proyecto_grafias\img" />
+      <recent name="D:\proyecto_grafias\html" />
       <recent name="D:\proyecto_grafias\perfil" />
       <recent name="D:\proyecto_grafias" />
     </key>
@@ -90,7 +98,8 @@
       <workItem from="1697598860429" duration="8492000" />
       <workItem from="1697817544313" duration="6514000" />
       <workItem from="1697858359940" duration="7407000" />
-      <workItem from="1697909662737" duration="6494000" />
+      <workItem from="1697909662737" duration="10914000" />
+      <workItem from="1698041835395" duration="4023000" />
     </task>
     <task id="LOCAL-00001" summary="v1.3">
       <option name="closed" value="true" />
@@ -124,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697913438357</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="v1.6">
+      <option name="closed" value="true" />
+      <created>1697917349557</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697917349557</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +152,7 @@
     <MESSAGE value="v1.4" />
     <MESSAGE value="v1.5 creacion del about" />
     <MESSAGE value="v1.5.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.5.1" />
+    <MESSAGE value="v1.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.6" />
   </component>
 </project>
