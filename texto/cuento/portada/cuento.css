@@ -61,3 +61,8 @@
     background-color: darkgrey;
     border-radius: 3rem;
 }
+main a:visited {
+    text-decoration: none;
+    color: black;
+
+}
