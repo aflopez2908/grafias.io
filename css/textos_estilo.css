@@ -1,0 +1,41 @@
+.cuento{
+    display: flex;
+
+}
+.cuento img{
+    width: 20rem;
+    height: 500px;
+    padding:2rem;
+}
+.container_cuento{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.container_cuento h3{
+    font-size: 5rem;
+    padding: 1rem;
+}
+.container_cuento h4{
+    padding-left: 1rem;
+    font-size: 2rem;
+}
+
+.titulo_cuento{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    width: 30rem;
+    align-self: flex-start;
+
+}
+.texto_cuento{
+    width: 70%;
+    text-align: justify;
+
+    margin-right: 3rem;
+
+}

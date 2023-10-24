@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8cab265-9fcf-4e23-8574-a7fa6ad60522" name="Changes" comment="v1.7">
-      <change afterPath="$PROJECT_DIR$/css/textos_estilo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texto/cuento/textos/cuento_ejemplo.html" afterDir="false" />
+    <list default="true" id="b8cab265-9fcf-4e23-8574-a7fa6ad60522" name="Changes" comment="v1.7.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/textos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/textos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/biblioteca.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/biblioteca.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/textos.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/textos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/texto/cuento/portada/cuento.css" beforeDir="false" afterPath="$PROJECT_DIR$/texto/cuento/portada/cuento.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/texto/cuento/portada/cuento_portada.html" beforeDir="false" afterPath="$PROJECT_DIR$/texto/cuento/portada/cuento_portada.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/textos_estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/textos_estilo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texto/cuento/textos/cuento_ejemplo.html" beforeDir="false" afterPath="$PROJECT_DIR$/texto/cuento/textos/cuento_ejemplo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,22 +51,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/proyecto_grafias/img&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/proyecto_grafias/img",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\proyecto_grafias\img" />
@@ -100,7 +95,8 @@
       <workItem from="1697858359940" duration="7407000" />
       <workItem from="1697909662737" duration="10914000" />
       <workItem from="1698041835395" duration="5336000" />
-      <workItem from="1698113157669" duration="3120000" />
+      <workItem from="1698113157669" duration="3134000" />
+      <workItem from="1698135222373" duration="4126000" />
     </task>
     <task id="LOCAL-00001" summary="v1.3">
       <option name="closed" value="true" />
@@ -150,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698048132448</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="v1.7.1">
+      <option name="closed" value="true" />
+      <created>1698116661049</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698116661049</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +167,7 @@
     <MESSAGE value="v1.5.1" />
     <MESSAGE value="v1.6" />
     <MESSAGE value="v1.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.7" />
+    <MESSAGE value="v1.7.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.7.1" />
   </component>
 </project>
