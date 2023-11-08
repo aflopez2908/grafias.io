@@ -1,11 +1,12 @@
 /* Estilos CSS para el menú desplegable */
 
 .container_titulo{
-    display: flex;
-    flex-direction: column;
-    align-items: end;
-    padding-bottom: 2rem;
 
+    display: flex;
+
+}
+.container_titulo img{
+    height: 200px;
 }
 header{
     display: flex;

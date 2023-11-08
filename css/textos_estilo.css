@@ -2,11 +2,15 @@
     display: flex;
 
 }
+
+/*es el estilo de la imagen lateral del cuento*/
 .cuento img{
     width: 20rem;
     height: 500px;
     padding:2rem;
 }
+
+/* el contenedor total del cuento*/
 .container_cuento{
 
     display: flex;
@@ -30,12 +34,13 @@
     padding: 1rem;
     width: 30rem;
     align-self: flex-start;
+    margin-left: 6rem;
 
 }
 .texto_cuento{
     width: 70%;
     text-align: justify;
-
     margin-right: 3rem;
+    padding-bottom: 3rem;
 
 }

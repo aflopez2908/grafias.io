@@ -4,10 +4,10 @@
     align-items: center;
 }
 
-img{
+.container_biblioteca img{
     width: 10rem;
     padding: 2rem;
 }
-img:hover{
+.container_biblioteca img:hover{
     width: 11rem;
 }
